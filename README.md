@@ -1,0 +1,1 @@
+# Aplicação cliente simples para consumir web service soap feito em java.
